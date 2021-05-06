@@ -1,0 +1,1177 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Testimonials with rotator widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-05 07:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: includes/admin/settings/premium.php:68
+msgid "$0 USD"
+msgstr ""
+
+#: includes/admin/settings/premium.php:207
+msgid "1 Year OR Lifetime"
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:181
+msgid "100% Multi language"
+msgstr ""
+
+#: includes/admin/settings/premium.php:95
+msgid "2 (Grid, Slider)"
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:170
+msgid "20 Designs"
+msgstr ""
+
+#: includes/admin/settings/premium.php:96
+msgid "3 (Grid, Slider, form)"
+msgstr ""
+
+#: includes/admin/settings/premium.php:99
+msgid "Add extra power to the shortcode"
+msgstr ""
+
+#: includes/wptww-post-types.php:21
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: includes/wptww-post-types.php:71
+msgid "Add New Category"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:166
+msgid "All"
+msgstr ""
+
+#: includes/wptww-post-types.php:24
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: includes/wptww-post-types.php:66
+msgid "All Category"
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:69
+msgid "All Shortcodes"
+msgstr ""
+
+#: includes/admin/settings/premium.php:120
+msgid "Arrange your desired post with your desired order and display"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:204 assets/js/blocks.build.js:1
+msgid "Arrows"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:153 assets/js/blocks.build.js:1
+#: assets/js/blocks.build.js:1
+msgid "Ascending"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:141
+msgid "Author"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:213
+msgid "Auto Play"
+msgstr ""
+
+#: includes/admin/settings/premium.php:200
+msgid "Automatic Update "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Autoplay"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:222 assets/js/blocks.build.js:1
+msgid "Autoplay Interval"
+msgstr ""
+
+#: includes/admin/settings/premium.php:135
+msgid "Bevear Builder Support"
+msgstr ""
+
+#: includes/wptww-post-types.php:73
+#: includes/widget/wp-widget-testimonials.php:160
+msgid "Category"
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:134
+msgid "Check plugin document for shortcode parameters and demo for designs."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Choose pagination type. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"Choose slider effect. Note: fade effect parameter will only work when Slide "
+"To Show is set to 1. Upgarade to "
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:236 assets/js/blocks.build.js:1
+#: assets/js/blocks.build.js:1
+msgid "Circle"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Click here"
+msgstr ""
+
+#: includes/testimonials-functions.php:103
+msgid "Client Name"
+msgstr ""
+
+#: includes/testimonials-functions.php:119
+msgid "Company"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"Control height of the featured image. You can enter any numeric number. e.g "
+"100. Leave empty for default height."
+msgstr ""
+
+#: includes/admin/settings/premium.php:155
+msgid "Custom Read More link for Post "
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:138
+msgid "Date"
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:136
+msgid "Demo for Designs"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:154 assets/js/blocks.build.js:1
+#: assets/js/blocks.build.js:1
+msgid "Descending"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:118 assets/js/blocks.build.js:1
+#: assets/js/blocks.build.js:1
+msgid "Design"
+msgstr ""
+
+#: includes/testimonials-functions.php:27 assets/js/blocks.build.js:1
+#: assets/js/blocks.build.js:1
+msgid "Design 1"
+msgstr ""
+
+#: includes/testimonials-functions.php:28 assets/js/blocks.build.js:1
+#: assets/js/blocks.build.js:1
+msgid "Design 2"
+msgstr ""
+
+#: includes/testimonials-functions.php:29 assets/js/blocks.build.js:1
+#: assets/js/blocks.build.js:1
+msgid "Design 3"
+msgstr ""
+
+#: includes/testimonials-functions.php:30 assets/js/blocks.build.js:1
+#: assets/js/blocks.build.js:1
+msgid "Design 4"
+msgstr ""
+
+#: includes/admin/settings/premium.php:89
+msgid "Designs "
+msgstr ""
+
+#: includes/admin/settings/premium.php:89
+msgid "Designs that make your website better"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:253
+msgid "Display Avatar"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:265
+msgid "Display Client"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:277
+msgid "Display Company"
+msgstr ""
+
+#: includes/admin/settings/premium.php:164
+msgid "Display Desired Post "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Display Grid"
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:72
+msgid "Display in grid with 4 designs"
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:73
+msgid "Display in slider with 4 designs"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:271
+msgid "Display Job"
+msgstr ""
+
+#: includes/admin/settings/premium.php:164
+msgid "Display only the post you want"
+msgstr ""
+
+#: includes/admin/settings/premium.php:170
+msgid "Display only the posts with particular category"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Display pagination. Upgarade to "
+msgstr ""
+
+#: includes/admin/settings/premium.php:185
+msgid "Display post according to date, title and etc"
+msgstr ""
+
+#: includes/admin/settings/premium.php:170
+msgid "Display Post for Particular Categories "
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:259
+msgid "Display Quotes"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Display ratings. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Display Specific Testimonials"
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:179
+msgid "Display Testimonial categories wise."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Display testimonial in a grid view with various layouts."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Display testimonial in a slider view with various layouts."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Display testimonial title. Upgarade to "
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:34
+msgid "Display testimonials on your site."
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:173
+msgid "Display testimonials using 20 testimonial widget designs."
+msgstr ""
+
+#: includes/admin/settings/premium.php:145
+msgid "Divi Page Builder Native Support"
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:178
+msgid ""
+"Divi Page Builder Native Support. <span class=\"wpos-new-feature\">New</span>"
+msgstr ""
+
+#: includes/admin/settings/premium.php:180
+msgid "Do not display the posts for particular categories"
+msgstr ""
+
+#: includes/admin/settings/premium.php:175
+msgid "Do not display the posts you want"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Do you also want to check premium version demo of this plugin."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Do you want to check demo of this plugin."
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:135
+msgid "Documentation"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:195 assets/js/blocks.build.js:1
+msgid "Dots"
+msgstr ""
+
+#: includes/admin/settings/premium.php:120
+msgid "Drag & Drop Post Order Change "
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Easy to add and display client's testimonial on your website with rotator "
+"widget. Also work with Gutenberg shortcode block."
+msgstr ""
+
+#: includes/wptww-post-types.php:22
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: includes/wptww-post-types.php:69
+msgid "Edit Category"
+msgstr ""
+
+#: includes/admin/settings/premium.php:130
+msgid "Elementor Page Builder Support"
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:177
+msgid ""
+"Elementor, Bevear and SiteOrigin Page Builder Support. <span class=\"wpos-"
+"new-feature\">New</span>"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Enable infinite loop for continuous sliding. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Enable slider center mode effect. Upgarade to "
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:154
+#, php-format
+msgid ""
+"Enjoyed this plugin? You can help by rate this plugin <a href=\"%s\" "
+"target=\"_blank\">5 stars!"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"Enter author id to display testimonials of particular author. You can pass "
+"multiple ids with comma seperated. You can find id at users listing page. "
+"Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"Enter author id to hide testimonials of particular author. Works only if "
+"`Include Author` field is empty. You can pass multiple ids with comma "
+"seperated. You can find id at relevant users listing page. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Enter autoplay interval speed."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Enter category id to display categories wise."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"Enter id of the testimonial which you do not want to display. You can pass "
+"multiple ids with comma seperated. You can find id at relevant post listing "
+"page. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"Enter id of the testimonial which you want to display. You can pass multiple "
+"ids with comma seperated. You can find id at relevant post listing page. "
+"Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Enter number for Slide to show at a time."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"Enter number of rating to displayed testimonial with given and greater "
+"rating. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Enter number of testimonials to be displayed. Enter -1 to display all."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Enter number to scroll slider at a time."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Enter slider speed."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Exclude Author"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Exclude Category Testimonial"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"Exclude category testimonial. Works only if `Category` field is empty. You "
+"can pass multiple ids with comma seperated. You can find id at relevant "
+"category listing page. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"Exclude number of posts from starting. e.g if you pass 5 then it will skip "
+"first five post. Note: This will not work with limit=-1. Upgarade to "
+msgstr ""
+
+#: includes/admin/settings/premium.php:180
+msgid "Exclude Some Categories "
+msgstr ""
+
+#: includes/admin/settings/premium.php:175
+msgid "Exclude Some Posts"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Exclude Specific Testimonials"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Fade"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:198
+#: includes/widget/wp-widget-testimonials.php:207
+#: includes/widget/wp-widget-testimonials.php:216
+#: includes/widget/wp-widget-testimonials.php:246 assets/js/blocks.build.js:1
+#: assets/js/blocks.build.js:1
+msgid "False"
+msgstr ""
+
+#: includes/admin/settings/premium.php:67
+msgid "Free"
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:180
+msgid "Fully responsive"
+msgstr ""
+
+#: includes/admin/settings/premium.php:72
+#: includes/admin/settings/premium.php:82
+msgid ""
+"Gain access to <strong>Testimonials with rotator widget</strong> included in "
+"<br /><strong>Essential Plugin Bundle"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "General Parameters"
+msgstr ""
+
+#: includes/admin/settings/premium.php:200
+msgid "Get automatic plugin updates"
+msgstr ""
+
+#: includes/admin/settings/premium.php:205
+msgid "Get support for plugin"
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:43
+msgid "Getting Started"
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:184
+msgid "Go Premium "
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:174
+msgid "Gutenberg Block Support."
+msgstr ""
+
+#: includes/admin/settings/premium.php:125
+msgid "Gutenberg Block Supports "
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:98
+msgid "Gutenberg Support"
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:150
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:106
+msgid "How it Work"
+msgstr ""
+
+#: includes/admin/class-wptww-admin.php:149
+#: includes/admin/wptww-how-it-work.php:14
+msgid "How It Works"
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:35
+msgid "How It Works - Display and shortcode"
+msgstr ""
+
+#: includes/admin/class-wptww-admin.php:149
+msgid "How it works, our plugins and offers"
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:57
+msgid "How Shortcode Works"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.wponlinesupport.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.wponlinesupport.com/plugins/"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:140
+msgid "ID"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"If you are using parent category then whether to display child category "
+"testimonials or not. Upgarade to "
+msgstr ""
+
+#: includes/admin/class-wptww-admin.php:213
+msgid "Image"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:177 assets/js/blocks.build.js:1
+#: assets/js/blocks.build.js:1
+msgid "Image Size"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:234 assets/js/blocks.build.js:1
+#: assets/js/blocks.build.js:1
+msgid "Image Style"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Include Author"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Include Child Category Post"
+msgstr ""
+
+#: wp-testimonials.php:133
+#, php-format
+msgid ""
+"It looks like you had PRO version %s of this plugin activated. To avoid "
+"conflicts the extra version has been deactivated and we recommend you delete "
+"it."
+msgstr ""
+
+#: includes/testimonials-functions.php:111
+msgid "Job Title"
+msgstr ""
+
+#: includes/admin/settings/premium.php:201
+#: includes/admin/settings/premium.php:202
+#: includes/admin/settings/premium.php:206
+msgid "Lifetime"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:130
+msgid "Limit"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Loop"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:145
+msgid "Menu Order"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Minimum Rating"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:139
+msgid "Modified Date"
+msgstr ""
+
+#: includes/admin/settings/premium.php:190
+msgid "Multiple Slider Parameters "
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:126
+msgid "Need Support?"
+msgstr ""
+
+#: includes/wptww-post-types.php:23
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: includes/wptww-post-types.php:72
+msgid "New Category Name"
+msgstr ""
+
+#: includes/wptww-post-types.php:27
+#, php-format
+msgid "No %s Found"
+msgstr ""
+
+#: includes/wptww-post-types.php:28
+#, php-format
+msgid "No %s Found In Trash"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Numeric Pagination"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:151 assets/js/blocks.build.js:1
+#: assets/js/blocks.build.js:1
+msgid "Order"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:136 assets/js/blocks.build.js:1
+#: assets/js/blocks.build.js:1
+msgid "Order By"
+msgstr ""
+
+#: includes/admin/settings/premium.php:73
+msgid "Our most valuable package!"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Pagination"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Pagination Type"
+msgstr ""
+
+#: includes/wptww-post-types.php:67 includes/wptww-post-types.php:68
+msgid "Parent Category"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Pause On Focus"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Pause On Hover"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Pause slider autoplay on hover. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Pause slider autoplay when slider element is focused. Upgarade to "
+msgstr ""
+
+#: includes/admin/settings/premium.php:104
+msgid ""
+"Play with all shortcode parameters with preview panel. No documentation "
+"required!!"
+msgstr ""
+
+#: includes/wptww-post-types.php:35
+msgctxt "post archive url slug"
+msgid "wp_testimonial"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Post Author"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Post Date"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Post ID"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Post Modified Date"
+msgstr ""
+
+#: includes/admin/settings/premium.php:185
+msgid "Post Order / Order By Parameters "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Post Title"
+msgstr ""
+
+#: includes/wptww-post-types.php:18
+msgctxt "post type general name"
+msgid "SP Testimonials"
+msgstr ""
+
+#: includes/wptww-post-types.php:19
+msgctxt "post type singular name"
+msgid "Testimonial"
+msgstr ""
+
+#: includes/admin/settings/premium.php:71
+msgid "Premium"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Premium version "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Previous - Next Pagination"
+msgstr ""
+
+#: includes/admin/settings/premium.php:160
+msgid "Publicize "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Query Offset"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Query Parameters"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:144 assets/js/blocks.build.js:1
+#: assets/js/blocks.build.js:1
+msgid "Random"
+msgstr ""
+
+#: includes/admin/settings/premium.php:155
+msgid "Redirect post to third party destination if any"
+msgstr ""
+
+#: includes/wptww-post-types.php:26
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: includes/wptww-post-types.php:65
+msgid "Search Category"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Select number of column per row."
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:125
+msgid ""
+"Select testimonial design. Note: Some design will not look good in a small "
+"area of widget."
+msgstr ""
+
+#: includes/admin/settings/premium.php:104
+msgid "Shortcode Generator "
+msgstr ""
+
+#: includes/admin/settings/premium.php:99
+msgid "Shortcode Parameters "
+msgstr ""
+
+#: includes/admin/settings/premium.php:94
+msgid "Shortcode provide output to the front-end side"
+msgstr ""
+
+#: includes/admin/settings/premium.php:94
+msgid "Shortcodes "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Show Avatar Image"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Show Client Name"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Show Company Name"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Show Content Quotes"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Show Job Name"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Show pagination dots."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Show prev - next arrows."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Show Rating"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Show slider auto height."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Show Title"
+msgstr ""
+
+#: includes/wptww-post-types.php:34
+msgctxt "single post url slug"
+msgid "testimonial"
+msgstr ""
+
+#: includes/admin/settings/premium.php:140
+msgid "SiteOrigin Page Builder Support"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Slide"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Slide To Scroll"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Slide To Show"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:243 assets/js/blocks.build.js:1
+msgid "Slider Auto Height"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Slider Ceter Mode Effect"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Slider Effect"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Slider Parameters"
+msgstr ""
+
+#: includes/admin/settings/premium.php:190
+msgid "Slider parameters like autoplay, number of slide, sider dots and etc."
+msgstr ""
+
+#: includes/admin/settings/premium.php:195
+msgid "Slider RTL Support "
+msgstr ""
+
+#: includes/admin/settings/premium.php:195
+msgid "Slider supports for RTL website"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:183
+msgid "Slides Column"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:189
+msgid "Slides to Scroll"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Specific Category Testimonial"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:228 assets/js/blocks.build.js:1
+msgid "Speed"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:237 assets/js/blocks.build.js:1
+#: assets/js/blocks.build.js:1
+msgid "Square"
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:172
+msgid "Star rating"
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:61
+msgid "Step-1. Create a page like Testimonials OR What our client says."
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:47
+msgid "Step-1. Go to \"WP Testimonials --> Add New\"."
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:83
+msgid "Step-1. Go to Appearance --> Widget."
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:110
+msgid "Step-1. Go to the Gutenberg editor of your page."
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:48
+msgid "Step-2. Add  Testimonials title, description and images"
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:62
+msgid "Step-2. Put below shortcode as per your need."
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:111
+msgid "Step-2. Search \"testimonial\" keyword in the gutenberg block list."
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:84
+msgid ""
+"Step-2. Use WP Testimonials Slider to display Testimonials in widget area "
+"with slider"
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:112
+msgid ""
+"Step-3. Add any block of testimonial and you will find its relative options "
+"on the right end side."
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:49
+msgid "Step-3. Add Testimonial Details like Client Name, Job Title detials etc"
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:50
+msgid "Step-4. Once added, press Publish button"
+msgstr ""
+
+#: includes/admin/settings/premium.php:205
+msgid "Support "
+msgstr ""
+
+#: includes/admin/settings/premium.php:160
+msgid "Support with Jetpack to publish your News post on"
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:175
+msgid "Template overriding feature support."
+msgstr ""
+
+#: includes/wptww-post-types.php:21 includes/wptww-post-types.php:22
+#: includes/wptww-post-types.php:23 includes/wptww-post-types.php:25
+msgid "Testimonial"
+msgstr ""
+
+#: includes/wptww-post-types.php:20
+msgctxt "testimonial"
+msgid "Add New"
+msgstr ""
+
+#: includes/admin/class-wptww-admin.php:240
+msgid "Testimonial Category Shortcode"
+msgstr ""
+
+#: includes/admin/class-wptww-admin.php:47
+msgid "Testimonial Details"
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:171
+msgid "Testimonial front-end form."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Testimonial Grid"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "testimonial grid"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:41
+msgid "Testimonial Post Slider"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Testimonial Slider"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "testimonial slider"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:143
+msgid "Testimonial URL Slug"
+msgstr ""
+
+#: includes/wptww-post-types.php:24 includes/wptww-post-types.php:26
+#: includes/wptww-post-types.php:27 includes/wptww-post-types.php:28
+msgid "Testimonials"
+msgstr ""
+
+#: wp-testimonials.php:132
+#, php-format
+msgid "Thank you for activating %s"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:112
+#: includes/widget/wp-widget-testimonials.php:142
+msgid "Title"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "to get this option."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Total Items"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:197
+#: includes/widget/wp-widget-testimonials.php:206
+#: includes/widget/wp-widget-testimonials.php:215
+#: includes/widget/wp-widget-testimonials.php:245 assets/js/blocks.build.js:1
+#: assets/js/blocks.build.js:1
+msgid "True"
+msgstr ""
+
+#: includes/wptww-post-types.php:70
+msgid "Update Category"
+msgstr ""
+
+#: includes/admin/class-wptww-admin.php:152
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: includes/admin/class-wptww-admin.php:152
+msgid "Upgrade to PRO - WP Testimonials with rotator widget"
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:166
+msgid "Upgrate to Pro"
+msgstr ""
+
+#: includes/testimonials-functions.php:127
+msgid "URL"
+msgstr ""
+
+#: includes/admin/settings/premium.php:135
+msgid "Use this plugin with Bevear Builder easily"
+msgstr ""
+
+#: includes/admin/settings/premium.php:145
+msgid "Use this plugin with Divi Builder easily"
+msgstr ""
+
+#: includes/admin/settings/premium.php:130
+msgid "Use this plugin with Elementor easily"
+msgstr ""
+
+#: includes/admin/settings/premium.php:125
+msgid "Use this plugin with Gutenberg easily"
+msgstr ""
+
+#: includes/admin/settings/premium.php:140
+msgid "Use this plugin with SiteOrigin easily"
+msgstr ""
+
+#: includes/admin/settings/premium.php:150
+msgid "Use this plugin with Visual Composer/WPBakery page builder easily"
+msgstr ""
+
+#: includes/wptww-post-types.php:25
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: includes/admin/settings/premium.php:83
+msgid "View Pricing Options"
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:185
+msgid "View PRO Demo "
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:79
+msgid "Widget"
+msgstr ""
+
+#: includes/admin/settings/premium.php:114
+msgid "Widgets "
+msgstr ""
+
+#: includes/admin/settings/premium.php:114
+msgid "WordPress Widgets to your sidebars."
+msgstr ""
+
+#. Author of the plugin
+msgid "WP OnlineSupport"
+msgstr ""
+
+#: includes/admin/settings/premium.php:109
+msgid "WP Templating Features "
+msgstr ""
+
+#: includes/wptww-post-types.php:30
+msgid "WP Testimonials"
+msgstr ""
+
+#: includes/widget/wp-widget-testimonials.php:35
+msgid "WP Testimonials Slider"
+msgstr ""
+
+#. Name of the plugin
+msgid "WP Testimonials with rotator widget"
+msgstr ""
+
+#: includes/admin/settings/premium.php:15
+msgid "WP Testimonials with rotator widget - Features"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "WP Testimonials with Rotator Widget - Grid"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "WP Testimonials with Rotator Widget - Slider"
+msgstr ""
+
+#: includes/admin/settings/premium.php:150
+msgid "WPBakery Page Builder Supports "
+msgstr ""
+
+#: includes/admin/wptww-how-it-work.php:176
+msgid "WPBakery Page Builder Supports."
+msgstr ""
+
+#: includes/admin/supports/gutenberg-block.php:240
+msgid "WPOS Blocks"
+msgstr ""
+
+#: includes/admin/settings/premium.php:109
+msgid "You can modify plugin html/designs in your current theme."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"You can pass multiple ids with comma seperated. You can find id at relevant "
+"category listing page."
+msgstr ""

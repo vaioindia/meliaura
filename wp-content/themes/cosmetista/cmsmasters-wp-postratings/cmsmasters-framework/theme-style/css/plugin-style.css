@@ -1,0 +1,107 @@
+/**
+ * @package 	WordPress
+ * @subpackage 	Cosmetista
+ * @version 	1.0.0
+ * 
+ * WP-PostRating CSS Rules
+ * Created by CMSMasters
+ * 
+ */
+
+
+/*-------------------------------------------------------------------------*/
+/*	Main Styles  */
+/*-------------------------------------------------------------------------*/
+.cmsmasters_rating .cmsmasters_rating_wrap {
+	position: relative;
+}
+.cmsmasters_rating img {
+	padding-left: 2px;
+}
+.cmsmasters_rating img:first-child {
+	padding-left: 0;
+}
+.cmsmasters_rating .post-ratings-loading {
+	height: auto;
+	font-size: 0;
+	position: absolute;
+	top: auto;
+	bottom: 0;
+	left: 0;
+	right: auto;
+}
+
+
+/***************** Portfolio Shortcode ******************/
+.cmsmasters_project_grid .cmsmasters_rating + .cmsmasters_project_footer  {
+	float:right;
+}
+
+.cmsmasters_project_grid .cmsmasters_rating {
+	display:inline-block;
+	margin-top:13px;
+}
+
+.cmsmasters_project_grid .cmsmasters_rating img {
+	width:15px;
+}
+
+.cmsmasters_project_grid .cmsmasters_rating img:first-child {
+	width:13px;
+}
+
+.cmsmasters_project_puzzle .cmsmasters_rating img {
+	width:15px;
+}
+
+.cmsmasters_project_puzzle .cmsmasters_rating img:first-child {
+	width:13px;
+}
+
+
+/***************** Portfolio Slider ******************/
+
+.cmsmasters_slider_project .cmsmasters_rating img {
+	width:15px;
+}
+
+.cmsmasters_slider_project .cmsmasters_rating img:first-child {
+	width:13px;
+}
+
+.cmsmasters_slider_project .cmsmasters_rating {
+	display:inline-block;
+	margin-top:3px;
+}
+
+.cmsmasters_slider_project .cmsmasters_rating + .cmsmasters_slider_project_footer {
+	float:right;
+}
+
+
+/***************** Single Project ******************/
+.cmsmasters_open_project .cmsmasters_rating {
+	text-align:center;
+	margin-top:45px;
+}
+
+.cmsmasters_open_project .cmsmasters_project_header + .cmsmasters_rating {
+	margin-top:0;
+}
+
+.cmsmasters_open_project .cmsmasters_rating .cmsmasters_rating_wrap {
+	display:inline-block;
+}
+
+
+
+/*-------------------------------------------------------------------------*/
+/*	RTL Styles  */
+/*-------------------------------------------------------------------------*/
+.rtl .cmsmasters_rating img {
+	padding-right: 2px;
+	padding-left: 0;
+}
+.rtl .cmsmasters_rating img:first-child {
+	padding-right: 0;
+}
